@@ -1,7 +1,7 @@
 ---
-title: "Category"
+title: "Web"
 layout: Categories
-permalink: /categories/
+permalink: /web/
 author_profile: true
 sidebar_main: true
 ---
